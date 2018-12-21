@@ -1,0 +1,13 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.11.0"
+  }
+}
