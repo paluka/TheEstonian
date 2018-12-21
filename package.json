@@ -1,8 +1,12 @@
 {
-  "name": "theestonian",
+  "name": "the-estonian",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "author": "paluka",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paluka/the-estonian.git"
+  }
 }
